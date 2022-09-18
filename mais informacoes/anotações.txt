@@ -1,0 +1,27 @@
+--- Comandos... ---
+
+
+git clone (link https)
+
+
+/* Acessando main */
+
+cd nome-do-repositorio/
+
+
+git status 
+
+
+git add . 
+
+
+git commit -m "Sua mensagem" 
+
+
+git push origin main 
+
+
+
+//Limpar -> Ctrl + L
+
+
